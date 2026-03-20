@@ -1,4 +1,4 @@
-# Hi, I'm Yuri Rodrigues 👋
+# Hello, i'm Yuri Rodrigues 👋
 
 I´m interested in software development and data analysis.
 
